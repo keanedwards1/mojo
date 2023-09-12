@@ -19,7 +19,7 @@ git clone https://github.com/modularml/mojo.git
 Use the following sample command-line to run the programs:
 
 ```bash
-mojo matmul.mojo
+mojo matmul.mojo hello
 ```
 
 You can run the Mojo notebooks using [JupyterLab or Visual Studio  
